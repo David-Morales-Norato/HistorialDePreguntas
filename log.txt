@@ -1,0 +1,53 @@
+Robot LOG: 
+
+ [1] Curso a procesar: 12256
+ [6] pregunta a tratar: T01.04.18,B002,N1[Movimiento rectilíneo uniforme]
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T01.04.18,C003,N2[Movimiento rectilíneo uniforme]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T01.04.19,B002,N2[Movimiento rectilíneo uniformemente acelerado]
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T01.04.18,B001,N1[Movimiento rectilíneo uniforme]
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T01.04.19,B001,N2[Movimiento rectilíneo uniformemente acelerado]
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T01.04.18,C003,N2[Movimiento rectilíneo uniforme]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T01.04.18,B001,N1[Movimiento rectilíneo uniforme]
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T01.04.19,B001,N2[Movimiento rectilíneo uniformemente acelerado]
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T01.04.19,B003,N2[Movimiento rectilíneo uniformemente acelerado]
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T01.04.19,B004,N2[Movimiento rectilíneo uniformemente acelerado]
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T01.04.19,B002,N2[Movimiento rectilíneo uniformemente acelerado]
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T01.04.18,B001,N1[Movimiento rectilíneo uniforme]
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T01.04.19,B001,N2[Movimiento rectilíneo uniformemente acelerado]
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T01.04.18,C003,N2[Movimiento rectilíneo uniforme]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [-3] Fallo en encontrar respuestas para el tipo de pregunta:  calculated | Exception: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//select//option[@selected='selected']"}
+  (Session info: chrome=80.0.3987.116)
+
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T01.04.18,B002,N1[Movimiento rectilíneo uniforme]
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T02.04.35,B002,N1[Leyes de Newton. Equilibrio traslacional]
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T02.03.34,B001,N1[Clases de fuerzas]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: T02.04.35,B003,N1[Leyes de Newton. Equilibrio traslacional]
+ [7] preguntatratada satisfactoriamente 
+ [4] Curso terminado satisfactoriamente
+ [1] Curso a procesar: 12258
+ [4] Curso terminado satisfactoriamente
+GUI LOG: 
