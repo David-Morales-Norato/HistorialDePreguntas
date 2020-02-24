@@ -16,7 +16,7 @@ class robot_hist_pregunta(Robot):
                 "\n [6] pregunta a tratar: ",#11
                 "\n [7] preguntatratada satisfactoriamente "]#11
 
-
+        self.datos_recopilados.append(["ID_CURSO", "NOMBRE_ACTIVIDAD", "ID_PREGUNTA", "NOMBRE_ESTUDIANTE", "NOTA", "RESPUESTA", "LINK_RESPUESTA", "LINK_RESULTADOS_DE_ACTIVIDAD"])
         # LOGS en Robot tiene un tamaño de 6 logs
         # el primero que se añada a: logs_recalificacion_preguntas
         # tendrán de 
@@ -57,7 +57,7 @@ class robot_hist_pregunta(Robot):
             # Preparación para llegar a la tabla
             table = self.driver.find_element_by_id("attempts")
 
-            self.recorrer_preguntas(table, new_window, curso, preguntas)
+            self.recorrer_preguntas(table, new_window, curso, preguntas, href)
 
             self.driver.close()
             self.driver.switch_to.window(main_window)
@@ -66,7 +66,7 @@ class robot_hist_pregunta(Robot):
         self.log+=self._LOGS[4]
             
 
-    def recorrer_preguntas(self, table, main_window, curso,preguntas):
+    def recorrer_preguntas(self, table, main_window, curso,preguntas, link_actividad):
         try: 
             # Les quitamos el último espacio a las preguntas del excel si lo tienen.
             preguntas = [ eliminar_ultimo_espacio(pregunta) for pregunta in preguntas]
@@ -86,8 +86,15 @@ class robot_hist_pregunta(Robot):
                 # Nombre de la persona
                 nombre = str(self.driver.title.split(" por ")[1])
                 self.log += self._LOGS[11] + quest_id_title
+
+                # Link de la respuesta del estudiante
+                link_quest = self.driver.current_url
+                # Encontrar respuestas
                 respuestas = self.encontrar_respuestas(preguntas,quest_id_title)
-                self.datos_recopilados.append([curso,nombre_actividad,quest_id_title,nombre,puntaje,respuestas])
+
+                # id_curso, nombre actividad, id_ pregunta, nombre estudiante, puntaje en la respuesta, respuesta del estudiante, link a la respuesta, link a resultados del curso
+                self.datos_recopilados.append([curso,nombre_actividad,quest_id_title,nombre,puntaje,respuestas,link_quest, link_actividad])
+
 
                 self.log += self._LOGS[12]
 

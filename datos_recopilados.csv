@@ -1,18 +1,19 @@
-12256,CPS1.2,"T01.04.18,B002,N1[Movimiento rectilíneo uniforme]",Carlos Felipe Bernal Guerrero,1.0,--pregunta no a tratar--
-12256,CPS1.2,"T01.04.18,C003,N2[Movimiento rectilíneo uniforme]",Carlos Felipe Bernal Guerrero,1.0,"{0: ['965,00', 'km']}"
-12256,CPS1.2,"T01.04.19,B002,N2[Movimiento rectilíneo uniformemente acelerado]",Carlos Felipe Bernal Guerrero,0.0,--pregunta no a tratar--
-12256,CPS1.2,"T01.04.18,B001,N1[Movimiento rectilíneo uniforme]",Carlos Felipe Bernal Guerrero,1.0,--pregunta no a tratar--
-12256,CPS1.2,"T01.04.19,B001,N2[Movimiento rectilíneo uniformemente acelerado]",Carlos Felipe Bernal Guerrero,0.0,--pregunta no a tratar--
-12256,CPS1.2,"T01.04.18,C003,N2[Movimiento rectilíneo uniforme]",Rubi Tatiana Utima Echeverry,1.0,"{0: ['301', 'km']}"
-12256,CPS1.2,"T01.04.18,B001,N1[Movimiento rectilíneo uniforme]",Rubi Tatiana Utima Echeverry,1.0,--pregunta no a tratar--
-12256,CPS1.2,"T01.04.19,B001,N2[Movimiento rectilíneo uniformemente acelerado]",Rubi Tatiana Utima Echeverry,1.0,--pregunta no a tratar--
-12256,CPS1.2,"T01.04.19,B003,N2[Movimiento rectilíneo uniformemente acelerado]",Rubi Tatiana Utima Echeverry,0.0,--pregunta no a tratar--
-12256,CPS1.2,"T01.04.19,B004,N2[Movimiento rectilíneo uniformemente acelerado]",Rubi Tatiana Utima Echeverry,0.0,--pregunta no a tratar--
-12256,CPS1.2,"T01.04.19,B002,N2[Movimiento rectilíneo uniformemente acelerado]",maria jose castañeda palomino,-,--pregunta no a tratar--
-12256,CPS1.2,"T01.04.18,B001,N1[Movimiento rectilíneo uniforme]",maria jose castañeda palomino,-,--pregunta no a tratar--
-12256,CPS1.2,"T01.04.19,B001,N2[Movimiento rectilíneo uniformemente acelerado]",maria jose castañeda palomino,-,--pregunta no a tratar--
-12256,CPS1.2,"T01.04.18,C003,N2[Movimiento rectilíneo uniforme]",maria jose castañeda palomino,-,--tipo de pregunta no soportada--
-12256,CPS1.2,"T01.04.18,B002,N1[Movimiento rectilíneo uniforme]",maria jose castañeda palomino,-,--pregunta no a tratar--
-12256,CPS2.2,"T02.04.35,B002,N1[Leyes de Newton. Equilibrio traslacional]",Daniel Alejandro Orosco Martinez,1.7,--pregunta no a tratar--
-12256,CPS2.2,"T02.03.34,B001,N1[Clases de fuerzas]",Daniel Alejandro Orosco Martinez,1.7,{0: 'e. De contacto y de campo.'}
-12256,CPS2.2,"T02.04.35,B003,N1[Leyes de Newton. Equilibrio traslacional]",Daniel Alejandro Orosco Martinez,1.7,--pregunta no a tratar--
+ID_CURSO,NOMBRE_ACTIVIDAD,ID_PREGUNTA,NOMBRE_ESTUDIANTE,NOTA,RESPUESTA,LINK_RESPUESTA,LINK_RESULTADOS_DE_ACTIVIDAD
+12256,CPS1.2,"T01.04.18,B002,N1[Movimiento rectilíneo uniforme]",Carlos Felipe Bernal Guerrero,1.0,--pregunta no a tratar--,https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1014895&slot=1,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311597&mode=overview
+12256,CPS1.2,"T01.04.18,C003,N2[Movimiento rectilíneo uniforme]",Carlos Felipe Bernal Guerrero,1.0,"{0: ['965,00', 'km']}",https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1014895&slot=2,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311597&mode=overview
+12256,CPS1.2,"T01.04.19,B002,N2[Movimiento rectilíneo uniformemente acelerado]",Carlos Felipe Bernal Guerrero,0.0,--pregunta no a tratar--,https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1014895&slot=3,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311597&mode=overview
+12256,CPS1.2,"T01.04.18,B001,N1[Movimiento rectilíneo uniforme]",Carlos Felipe Bernal Guerrero,1.0,--pregunta no a tratar--,https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1014895&slot=4,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311597&mode=overview
+12256,CPS1.2,"T01.04.19,B001,N2[Movimiento rectilíneo uniformemente acelerado]",Carlos Felipe Bernal Guerrero,0.0,--pregunta no a tratar--,https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1014895&slot=5,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311597&mode=overview
+12256,CPS1.2,"T01.04.18,C003,N2[Movimiento rectilíneo uniforme]",Rubi Tatiana Utima Echeverry,1.0,"{0: ['301', 'km']}",https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1016805&slot=1,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311597&mode=overview
+12256,CPS1.2,"T01.04.18,B001,N1[Movimiento rectilíneo uniforme]",Rubi Tatiana Utima Echeverry,1.0,--pregunta no a tratar--,https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1016805&slot=2,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311597&mode=overview
+12256,CPS1.2,"T01.04.19,B001,N2[Movimiento rectilíneo uniformemente acelerado]",Rubi Tatiana Utima Echeverry,1.0,--pregunta no a tratar--,https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1016805&slot=3,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311597&mode=overview
+12256,CPS1.2,"T01.04.19,B003,N2[Movimiento rectilíneo uniformemente acelerado]",Rubi Tatiana Utima Echeverry,0.0,--pregunta no a tratar--,https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1016805&slot=4,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311597&mode=overview
+12256,CPS1.2,"T01.04.19,B004,N2[Movimiento rectilíneo uniformemente acelerado]",Rubi Tatiana Utima Echeverry,0.0,--pregunta no a tratar--,https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1016805&slot=5,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311597&mode=overview
+12256,CPS1.2,"T01.04.19,B002,N2[Movimiento rectilíneo uniformemente acelerado]",maria jose castañeda palomino,-,--pregunta no a tratar--,https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1017503&slot=1,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311597&mode=overview
+12256,CPS1.2,"T01.04.18,B001,N1[Movimiento rectilíneo uniforme]",maria jose castañeda palomino,-,--pregunta no a tratar--,https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1017503&slot=2,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311597&mode=overview
+12256,CPS1.2,"T01.04.19,B001,N2[Movimiento rectilíneo uniformemente acelerado]",maria jose castañeda palomino,-,--pregunta no a tratar--,https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1017503&slot=3,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311597&mode=overview
+12256,CPS1.2,"T01.04.18,C003,N2[Movimiento rectilíneo uniforme]",maria jose castañeda palomino,-,--pregunta no respondida--,https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1017503&slot=4,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311597&mode=overview
+12256,CPS1.2,"T01.04.18,B002,N1[Movimiento rectilíneo uniforme]",maria jose castañeda palomino,-,--pregunta no a tratar--,https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1017503&slot=5,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311597&mode=overview
+12256,CPS2.2,"T02.04.35,B002,N1[Leyes de Newton. Equilibrio traslacional]",Daniel Alejandro Orosco Martinez,1.7,--pregunta no a tratar--,https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1098983&slot=1,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311602&mode=overview
+12256,CPS2.2,"T02.03.34,B001,N1[Clases de fuerzas]",Daniel Alejandro Orosco Martinez,1.7,{0: 'e. De contacto y de campo.'},https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1098983&slot=2,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311602&mode=overview
+12256,CPS2.2,"T02.04.35,B003,N1[Leyes de Newton. Equilibrio traslacional]",Daniel Alejandro Orosco Martinez,1.7,--pregunta no a tratar--,https://tic.uis.edu.co/ava/mod/quiz/reviewquestion.php?attempt=1098983&slot=3,https://tic.uis.edu.co/ava/mod/quiz/report.php?id=311602&mode=overview
