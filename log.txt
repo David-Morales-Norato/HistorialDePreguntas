@@ -2,34 +2,62 @@ Robot LOG:
 
  [1] Curso a procesar: 12256
  [6] pregunta a tratar: T01.04.18,B002,N1[Movimiento rectilíneo uniforme]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T01.04.18,C003,N2[Movimiento rectilíneo uniforme]
  [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
  [3] Respuestas encontradas satisfactoriamente  
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T01.04.19,B002,N2[Movimiento rectilíneo uniformemente acelerado]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T01.04.18,B001,N1[Movimiento rectilíneo uniforme]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T01.04.19,B001,N2[Movimiento rectilíneo uniformemente acelerado]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T01.04.18,C003,N2[Movimiento rectilíneo uniforme]
  [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
  [3] Respuestas encontradas satisfactoriamente  
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T01.04.18,B001,N1[Movimiento rectilíneo uniforme]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T01.04.19,B001,N2[Movimiento rectilíneo uniformemente acelerado]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T01.04.19,B003,N2[Movimiento rectilíneo uniformemente acelerado]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T01.04.19,B004,N2[Movimiento rectilíneo uniformemente acelerado]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T01.04.19,B002,N2[Movimiento rectilíneo uniformemente acelerado]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [-3] Fallo en encontrar respuestas para el tipo de pregunta:  truefalse | Exception: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@checked='checked']"}
+  (Session info: chrome=80.0.3987.116)
+
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T01.04.18,B001,N1[Movimiento rectilíneo uniforme]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [-3] Fallo en encontrar respuestas para el tipo de pregunta:  truefalse | Exception: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@checked='checked']"}
+  (Session info: chrome=80.0.3987.116)
+
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T01.04.19,B001,N2[Movimiento rectilíneo uniformemente acelerado]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [-3] Fallo en encontrar respuestas para el tipo de pregunta:  truefalse | Exception: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@checked='checked']"}
+  (Session info: chrome=80.0.3987.116)
+
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T01.04.18,C003,N2[Movimiento rectilíneo uniforme]
  [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
@@ -38,16 +66,1391 @@ Robot LOG:
 
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T01.04.18,B002,N1[Movimiento rectilíneo uniforme]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [-3] Fallo en encontrar respuestas para el tipo de pregunta:  truefalse | Exception: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@checked='checked']"}
+  (Session info: chrome=80.0.3987.116)
+
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T02.04.35,B002,N1[Leyes de Newton. Equilibrio traslacional]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T02.03.34,B001,N1[Clases de fuerzas]
  [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
  [3] Respuestas encontradas satisfactoriamente  
  [7] preguntatratada satisfactoriamente 
  [6] pregunta a tratar: T02.04.35,B003,N1[Leyes de Newton. Equilibrio traslacional]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
  [7] preguntatratada satisfactoriamente 
  [4] Curso terminado satisfactoriamente
  [1] Curso a procesar: 12258
+ [4] Curso terminado satisfactoriamente
+ [1] Curso a procesar: 12307
+ [6] pregunta a tratar: ial.v1,05B22[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B20[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B04[porcentaje de nota final ]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B14[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B12[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05A01[proyecto final ]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B18[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B16[prefijos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B08[proyecto final ]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B14[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B02[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05A01[proyecto final ]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B16[prefijos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B23[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B09[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B14[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B02[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05A01[proyecto final ]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B17[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B22[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B04[porcentaje de nota final ]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B10[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B15[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05A01[proyecto final ]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B17[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B23[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B12[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B15[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B14[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05A01[proyecto final ]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B21[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B17[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B03[CPL]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B08[proyecto final ]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B14[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05A01[proyecto final ]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B22[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B19[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B11[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B05[CPL]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B12[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05A01[proyecto final ]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B17[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B20[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B07[informe]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B09[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B13[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05A01[proyecto final ]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B19[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B17[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B09[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B07[informe]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B03[CPL]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05A01[proyecto final ]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B18[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B17[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B10[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B13[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B15[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05A01[proyecto final ]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B23[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B20[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B09[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B05[CPL]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B02[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05A01[proyecto final ]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B16[prefijos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B19[unidades]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B04[porcentaje de nota final ]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B13[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05B02[instrumentos]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: ial.v1,05A01[proyecto final ]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B17[líneas de campo eléctrico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B09[líneas equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,05B04[superficies equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B03[superficies equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B04[superficies equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04A02[líneas equipotenciales]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B17[líneas de campo eléctrico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B013[electrodo]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,05B02[cables de conexión]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B01[electrodo]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,05B06[Análisis gráfico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04A02[líneas equipotenciales]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B18[líneas de campo eléctrico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B09[líneas equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,05B01[fuente de voltaje]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B04[superficies equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B03[superficies equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04A02[líneas equipotenciales]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B17[líneas de campo eléctrico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B18[líneas de campo eléctrico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B01[electrodo]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B03[superficies equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B05[superficies equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04A02[líneas equipotenciales]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B15[líneas de campo eléctrico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B08[líneas equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,05B05[Electrodos, sistema de referencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,05B01[fuente de voltaje]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,05B02[cables de conexión]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04A02[líneas equipotenciales]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B18[líneas de campo eléctrico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B08[líneas equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B02[fuente
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B05[superficies equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,05B01[fuente de voltaje]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04A02[líneas equipotenciales]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B08[líneas equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B18[líneas de campo eléctrico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,05B02[cables de conexión]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,05B06[Análisis gráfico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,05B01[fuente de voltaje]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04A02[líneas equipotenciales]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B11[campo eléctrico uniforme]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B18[líneas de campo eléctrico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B02[fuente
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B01[electrodo]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B06[Vector campo eléctrico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04A02[líneas equipotenciales]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B14[cargas eléctricas]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B17[líneas de campo eléctrico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B01[electrodo]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B05[superficies equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B03[superficies equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04A02[líneas equipotenciales]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B07[líneas equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B18[líneas de campo eléctrico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,05B01[fuente de voltaje]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B01[electrodo]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,05B05[Electrodos, sistema de referencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04A02[líneas equipotenciales]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B17[líneas de campo eléctrico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B10[líneas de campo eléctrico]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,05B04[superficies equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B05[superficies equipotenciales]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04B01[electrodo]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i01.v1,04A02[líneas equipotenciales]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B05[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B08[resisitividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B02[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B01[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B05[Fases del proyecto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04A03[resistividad]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B07[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B06[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B03[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B11[Cálculo de resistencia eléctrica]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B01[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05A07[resistencias]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B06[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B08[resisitividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B04[Identificación de elementos y funciones]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B01[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B02[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04A03[resistividad]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B08[resisitividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B06[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B01[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B11[Cálculo de resistencia eléctrica]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B10[Concepto de resistencia y resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05A07[resistencias]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B06[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B05[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B11[Cálculo de resistencia eléctrica]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B04[Identificación de elementos y funciones]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B05[Fases del proyecto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04A03[resistividad]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B08[resisitividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B05[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B01[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B04[Identificación de elementos y funciones]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B05[Fases del proyecto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04A03[resistividad]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B08[resisitividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B06[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B03[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B01[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B10[Concepto de resistencia y resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04A03[resistividad]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B06[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B05[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B02[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B10[Concepto de resistencia y resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,03B01[resistividad]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05A07[resistencias]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B08[resisitividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B05[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B04[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B01[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B04[Identificación de elementos y funciones]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04A03[resistividad]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B06[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B05[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,03B01[resistividad]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B01[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B05[Fases del proyecto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05A07[resistencias]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B08[resisitividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B05[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B10[Concepto de resistencia y resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B02[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B05[Fases del proyecto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04A03[resistividad]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B07[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B06[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B02[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B10[Concepto de resistencia y resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B05[Fases del proyecto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04A03[resistividad]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B07[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B05[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B04[Identificación de elementos y funciones]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B01[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B04[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04A03[resistividad]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B06[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B07[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B05[Fases del proyecto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,04B01[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05B01[resistividad]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i03.v1,05A07[resistencias]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B15[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04C16[Batería - resistores]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B13[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B11[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B12[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04A09[circuito mixto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04C16[Batería - resistores]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B15[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B11[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B13[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B12[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04A09[circuito mixto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04C17[Batería - resistores]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B15[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B10[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B11[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B12[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04A09[circuito mixto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04C16[Batería - resistores]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B15[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B10[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B11[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B12[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04A09[circuito mixto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B15[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04C17[Batería - resistores]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B10[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B12[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B13[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04A09[circuito mixto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04C17[Batería - resistores]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B15[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B11[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B12[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B10[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04A09[circuito mixto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04C18[Batería - resistencias]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04C17[Batería - resistores]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B13[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B12[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B11[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04A09[circuito mixto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04C17[Batería - resistores]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B14[Resistencia
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B10[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B12[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B11[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04A09[circuito mixto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04C18[Batería - resistencias]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B14[Resistencia
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B13[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B10[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B11[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04A09[circuito mixto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04C17[Batería - resistores]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04C18[Batería - resistencias]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B10[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B11[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B12[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04A09[circuito mixto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04C17[Batería - resistores]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04C18[Batería - resistencias]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B10[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B12[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B11[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04A09[circuito mixto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B14[Resistencia
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04C18[Batería - resistencias]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B11[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B10[resistencia equivalente]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04B12[resistencia]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i04.v1,04A09[circuito mixto]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B02[Biot-Savart]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B01[Inducción magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C02[Corriente eléctrica]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B04[Descripción de la metodología]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05A01[Permeabilidad magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B03[Biot-Savart]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B01[Inducción magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C01[Corriente eléctrica]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B04[Descripción de la metodología]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05A01[Permeabilidad magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B02[Biot-Savart]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B04[Conductores]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B04[Descripción de la metodología]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05A01[Permeabilidad magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B01[Inducción magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B02[Biot-Savart]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B04[Descripción de la metodología]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05A01[Permeabilidad magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B04[Conductores]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B02[Biot-Savart]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C01[Corriente eléctrica]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B04[Descripción de la metodología]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05A01[Permeabilidad magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B04[Conductores]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B05[Conductores]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B01[Campo magnético]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C01[Corriente eléctrica]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05A01[Permeabilidad magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B03[Biot-Savart]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B02[Biot-Savart]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B01[Campo magnético]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05A01[Permeabilidad magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B03[Biot-Savart]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B02[Biot-Savart]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B01[Campo magnético]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B04[Descripción de la metodología]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05A01[Permeabilidad magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B05[Conductores]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B01[Inducción magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C01[Corriente eléctrica]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05A01[Permeabilidad magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B02[Biot-Savart]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B05[Conductores]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B04[Descripción de la metodología]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C01[Corriente eléctrica]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05A01[Permeabilidad magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B02[Biot-Savart]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B01[Inducción magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C01[Corriente eléctrica]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05A01[Permeabilidad magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B05[Conductores]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04B04[Conductores]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05B01[Campo magnético]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C03[Campo magnético]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,04C02[Corriente eléctrica]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i09.v1,05A01[Permeabilidad magnética]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i07.v2,04B11[Campo magnético]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i07.v2,04B10[Inducción]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i07.v1,05B05[Función del núcleo de hierro]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i07.v1,05B03[Metodología]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i07.v1,05B04[Uso de fuente alterna]
+ [5] tipo al que pertenece la pregunta encontrados satisfactoriamente
+ [3] Respuestas encontradas satisfactoriamente  
+ [7] preguntatratada satisfactoriamente 
+ [6] pregunta a tratar: i07.v1,05A01[Potencia de un transformador]
+ [-5] Fallo al encontrar el tipo al que pertenece la pregunta | EXCEPTION:  Tipo de pregunta no soportado por el robot 
+ [7] preguntatratada satisfactoriamente 
  [4] Curso terminado satisfactoriamente
 GUI LOG: 

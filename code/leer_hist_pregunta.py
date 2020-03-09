@@ -18,15 +18,12 @@ class leer_datos_historial_pregunta(leer_datos):
     def lectura_historal_preguntas(self, archivo_excel):
         # Leemos las hojas
         cursos_hoja = archivo_excel[self.NOMBRES_HOJAS[0]]
-        preguntas_hoja = archivo_excel[self.NOMBRES_HOJAS[1]]
 
         # Leemos cursos y actividades
         cursos= self.leer_columna(cursos_hoja,"CURSOS_ID")
 
-        # Leemos el id de la pregunta a recalificar
-        preguntas = self.leer_columna(preguntas_hoja,"PREGUNTAS_ID")
         
-        return [cursos,preguntas]
+        return [cursos]
 
     def get_log(self):
         return self.log

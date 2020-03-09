@@ -28,7 +28,6 @@ class robot_hist_pregunta(Robot):
         #Obtenemos el curso que estamos tratando
         contador = variables_de_control[1]
         curso = datos[0][contador]
-        preguntas = np.array(datos[1])
 
         try:
             # Se listan las resultados_de_actividades de cada curso
@@ -57,7 +56,7 @@ class robot_hist_pregunta(Robot):
             # Preparación para llegar a la tabla
             table = self.driver.find_element_by_id("attempts")
 
-            self.recorrer_preguntas(table, new_window, curso, preguntas, href)
+            self.recorrer_preguntas(table, new_window, curso, href)
 
             self.driver.close()
             self.driver.switch_to.window(main_window)
@@ -66,17 +65,22 @@ class robot_hist_pregunta(Robot):
         self.log+=self._LOGS[4]
             
 
-    def recorrer_preguntas(self, table, main_window, curso,preguntas, link_actividad):
+    def recorrer_preguntas(self, table, main_window, curso, link_actividad):
         try: 
-            # Les quitamos el último espacio a las preguntas del excel si lo tienen.
-            preguntas = [ eliminar_ultimo_espacio(pregunta) for pregunta in preguntas]
             nombre_actividad = self.driver.find_element_by_xpath("//nav//*//a[@title='Cuestionario']").text
             # Buscamos todas las preguntas que han sido respondidas por estudiantes
             questions = table.find_elements_by_xpath(".//*[@title = 'Revisar respuesta']")
 
             # Se va a revisar cada pregunta
             for question in questions:
-                puntaje = question.text.replace(",",".")
+                puntaje = question.text
+                if(puntaje == "-"):
+                    puntaje = None
+                elif("/" in puntaje):
+                    puntaje = puntaje.split("/")[1].replace(",",".")
+                else:
+                    puntaje = puntaje.text.replace(",",".")
+                
                 question.click()
 
                 # Cambiamos a la nueva ventana que es la preunta
@@ -90,7 +94,7 @@ class robot_hist_pregunta(Robot):
                 # Link de la respuesta del estudiante
                 link_quest = self.driver.current_url
                 # Encontrar respuestas
-                respuestas = self.encontrar_respuestas(preguntas,quest_id_title)
+                respuestas = self.encontrar_respuestas(quest_id_title)
 
                 # id_curso, nombre actividad, id_ pregunta, nombre estudiante, puntaje en la respuesta, respuesta del estudiante, link a la respuesta, link a resultados del curso
                 self.datos_recopilados.append([curso,nombre_actividad,quest_id_title,nombre,puntaje,respuestas,link_quest, link_actividad])
@@ -106,25 +110,20 @@ class robot_hist_pregunta(Robot):
             # Si hay algún error guarda el fallo
             self.log += self._LOGS[10] + curso + " | Exception:  " + str(e)
 
-    def encontrar_respuestas(self, preguntas, title):
-        # Si esta pregunta está para tratarla
-        if(title in preguntas):
-            tipo = self.encontrar_tipo_pregunta()
-            # Si la pregunta si la podemos tratar 
-            if tipo != None:
-                # Encontrar respuesta
-                
-                respuestas = self.recoger_respuestas_por_tipo(tipo)
-            else:
-                respuestas = "--tipo de pregunta no soportada--"
-            # Si encontró las respuestas las retorna
-            # Si no es un tipo de pregunta tratable retorna None
-            if(tipo != None and respuestas == None):
-                respuestas = "--pregunta no respondida--"
+    def encontrar_respuestas(self, title):
+        tipo = self.encontrar_tipo_pregunta()
+        # Si la pregunta si la podemos tratar 
+        if tipo != None:
+            # Encontrar respuesta
             
-        else: 
-            respuestas = "--pregunta no a tratar--"            
-
+            respuestas = self.recoger_respuestas_por_tipo(tipo)
+        else:
+            respuestas = "--tipo de pregunta no soportada--"
+        # Si encontró las respuestas las retorna
+        # Si no es un tipo de pregunta tratable retorna None
+        if(tipo != None and respuestas == None):
+            respuestas = "--pregunta no respondida--"
+                   
         return respuestas
                 
 
