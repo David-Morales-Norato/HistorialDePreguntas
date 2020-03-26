@@ -14,11 +14,21 @@ class robot_hist_pregunta_gui(robot_gui):
             self.archivo_cargado = True
         self.root.mainloop()
 
+        # Variable de control de la opción del tipo de historial a buscar
+        self.opcion = tk.IntVar()
+        self.opcion.set(0) # Se setea en 0, el caso en que no ha escogido ninguna opción
+        # Historial de todas las preguntas para los cursos seleccionados 1
+        # Historial para una pregunta específica para los cursos y actividades seleccionadas 2
+        # Botones que son las opciones
+        tk.Radiobutton(self.frame_left, text="Historial de todas las preguntas",padx = 20, variable=self.opcion, value=1).grid(row=1,column=3)
+        tk.Radiobutton(self.frame_left, text="Historial para una pregunta específica",padx = 20, variable=self.opcion, value=2).grid(row=2,column=3)
+        print("Pasó")
+
 
     def pre_run_especifico(self):
         # Lemos los datos del archivo xlsx
         leer_datos = leer_datos_historial_pregunta()
-        datos = leer_datos.lectura_especifica(self.file_path)
+        datos = leer_datos.lectura_especifica(self.file_path, self.opcion.get())
         if(len(leer_datos.get_log())<1): # Si no hay algún error al leer los datos
             # Se pasan los datos y la opción de la tarea del robot
             # elección = 0 ya que no hay elecciín

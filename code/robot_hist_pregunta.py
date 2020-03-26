@@ -26,21 +26,28 @@ class robot_hist_pregunta(Robot):
 
     def tratamiento_curso(self,datos, variables_de_control):
         #Obtenemos el curso que estamos tratando
+        opcion = variables_de_control[0]
         contador = variables_de_control[1]
         curso = datos[0][contador]
+        if(opcion == 1):
+            
 
-        try:
-            # Se listan las resultados_de_actividades de cada curso
-            resultados_de_actividades = self.driver.find_elements_by_xpath("//td[@class='cell c3 lastcol']//a")
+            try:
+                # Se listan las resultados_de_actividades de cada curso
+                resultados_de_actividades = self.driver.find_elements_by_xpath("//td[@class='cell c3 lastcol']//a")
 
 
 
-        except Exception as e:
-            # En caso de no ser encontrado se captura la excepción y  se registra en el log
-            self.log +=self._LOGS[2]+ str(e)
-        
+            except Exception as e:
+                # En caso de no ser encontrado se captura la excepción y  se registra en el log
+                self.log +=self._LOGS[2]+ str(e)
+            
+        elif(opcion == 2):
+            curso = datos[0][contador] 
+            actividad = datos[0][contador]
 
-        main_window = self.driver.current_window_handle
+            resultados_de_actividades = [self.driver.find_elements_by_xpath("//td[contains(text(), '"+actividad+"')")]
+            main_window = self.driver.current_window_handle
 
         for intento_actividad in resultados_de_actividades:
             # Hallamos la intento_actividad
@@ -56,17 +63,24 @@ class robot_hist_pregunta(Robot):
             # Preparación para llegar a la tabla
             table = self.driver.find_element_by_id("attempts")
 
-            self.recorrer_preguntas(table, new_window, curso, href)
+            self.recorrer_preguntas(table, new_window, datos, variables_de_control,  href)
 
             self.driver.close()
             self.driver.switch_to.window(main_window)
             
-        #Si no ha saltado alguna excepción, se guarda que fue un curso exitoso
-        self.log+=self._LOGS[4]
+            #Si no ha saltado alguna excepción, se guarda que fue un curso exitoso
+            self.log+=self._LOGS[4]
+                
+
+    def recorrer_preguntas(self, table, main_window, datos,variables_de_control, link_actividad):
+        curso = datos[0][variables_de_control[1]]
+        if(variables_de_control[0] == 0):
+            preguntas = []
+        else:
+            preguntas = datos[2]
+        try: 
             
 
-    def recorrer_preguntas(self, table, main_window, curso, link_actividad):
-        try: 
             nombre_actividad = self.driver.find_element_by_xpath("//nav//*//a[@title='Cuestionario']").text
             # Buscamos todas las preguntas que han sido respondidas por estudiantes
             questions = table.find_elements_by_xpath(".//*[@title = 'Revisar respuesta']")
@@ -94,10 +108,10 @@ class robot_hist_pregunta(Robot):
                 # Link de la respuesta del estudiante
                 link_quest = self.driver.current_url
                 # Encontrar respuestas
-                respuestas = self.encontrar_respuestas(quest_id_title)
+                respuestas = self.encontrar_respuestas(quest_id_title, variables_de_control[0],preguntas)
 
                 # id_curso, nombre actividad, id_ pregunta, nombre estudiante, puntaje en la respuesta, respuesta del estudiante, link a la respuesta, link a resultados del curso
-                self.datos_recopilados.append([curso,nombre_actividad,quest_id_title,nombre,puntaje,respuestas,link_quest, link_actividad])
+                self.datos_recopilados.append([datos[0][variables_de_control[1]],nombre_actividad,quest_id_title,nombre,puntaje,respuestas,link_quest, link_actividad])
 
 
                 self.log += self._LOGS[12]
@@ -110,20 +124,27 @@ class robot_hist_pregunta(Robot):
             # Si hay algún error guarda el fallo
             self.log += self._LOGS[10] + curso + " | Exception:  " + str(e)
 
-    def encontrar_respuestas(self, title):
-        tipo = self.encontrar_tipo_pregunta()
-        # Si la pregunta si la podemos tratar 
-        if tipo != None:
-            # Encontrar respuesta
+    def encontrar_respuestas(self, title, tipo_de_tratamiento,preguntas):
+        # Si esta pregunta está para tratarla
+        condicion = title in preguntas and tipo_de_tratamiento == 1
+
+        if(condicion):
+            tipo = self.encontrar_tipo_pregunta()
+            # Si la pregunta si la podemos tratar 
+            if tipo != None:
+                # Encontrar respuesta
+                
+                respuestas = self.recoger_respuestas_por_tipo(tipo)
+            else:
+                respuestas = "--tipo de pregunta no soportada--"
+            # Si encontró las respuestas las retorna
+            # Si no es un tipo de pregunta tratable retorna None
+            if(tipo != None and respuestas == None):
+                respuestas = "--pregunta no respondida--"
             
-            respuestas = self.recoger_respuestas_por_tipo(tipo)
-        else:
-            respuestas = "--tipo de pregunta no soportada--"
-        # Si encontró las respuestas las retorna
-        # Si no es un tipo de pregunta tratable retorna None
-        if(tipo != None and respuestas == None):
-            respuestas = "--pregunta no respondida--"
-                   
+        else: 
+            respuestas = "--pregunta no a tratar--"            
+
         return respuestas
                 
 
