@@ -6,14 +6,6 @@ class robot_hist_pregunta_gui(robot_gui):
     def __init__(self):
         super().__init__()
         self.root.title("Robot para ver historial preguntas")
-
-        if(DEBUG):
-            self.file_path = "/home/david-norato/Documentos/EXPERTIC/historia_por_pregunta/datos/datos_recalificar_todo.xlsx"
-            self.input_user_entry.insert(0,"exper-tic")
-            self.input_pass_entry.insert(0,"exper-tic")
-            self.archivo_cargado = True
-        self.root.mainloop()
-
         # Variable de control de la opción del tipo de historial a buscar
         self.opcion = tk.IntVar()
         self.opcion.set(0) # Se setea en 0, el caso en que no ha escogido ninguna opción
@@ -22,7 +14,16 @@ class robot_hist_pregunta_gui(robot_gui):
         # Botones que son las opciones
         tk.Radiobutton(self.frame_left, text="Historial de todas las preguntas",padx = 20, variable=self.opcion, value=1).grid(row=1,column=3)
         tk.Radiobutton(self.frame_left, text="Historial para una pregunta específica",padx = 20, variable=self.opcion, value=2).grid(row=2,column=3)
-        print("Pasó")
+
+
+        if(DEBUG):
+            self.file_path = "/home/david-norato/Documentos/EXPERTIC/historia_por_pregunta/datos/historial_preguntas_especificas.xlsx"
+            self.input_user_entry.insert(0,"exper-tic")
+            self.input_pass_entry.insert(0,"exper-tic")
+            self.opcion.set(2)
+            self.archivo_cargado = True
+
+        self.root.mainloop()
 
 
     def pre_run_especifico(self):
@@ -32,7 +33,7 @@ class robot_hist_pregunta_gui(robot_gui):
         if(len(leer_datos.get_log())<1): # Si no hay algún error al leer los datos
             # Se pasan los datos y la opción de la tarea del robot
             # elección = 0 ya que no hay elecciín
-            self.run_robot(datos,0)
+            self.run_robot(datos,self.opcion.get())
         else:
             # Si hay por lo menos un error lo imprime en el label de la GUI
             self.log += leer_datos.get_log()

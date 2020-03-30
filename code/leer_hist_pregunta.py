@@ -42,9 +42,10 @@ class leer_datos_historial_pregunta(leer_datos):
         
 
         # Leemos las preguntas
-        actividades= self.leer_columna(preguntas_hoja,"PREGUNTAS_ID")
+        #preguntas= self.leer_columna(preguntas_hoja,"PREGUNTAS_ID")
 
-        return [cursos, actividades, actividades]
+        #return [cursos, actividades, preguntas]
+        return [cursos, actividades]
 
     def get_log(self):
         return self.log
