@@ -2,7 +2,7 @@ from read_files import leer_datos,pd
 
 class leer_datos_historial_pregunta(leer_datos):
     def __init__(self):
-        self.NOMBRES_HOJAS = ["CURSOS","CURSOS_ACTIVIDADES","PREGUNTAS"]
+        self.NOMBRES_HOJAS = ["CURSOS","CURSOS_ACTIVIDADES"]
         super().__init__()
 
     def lectura_especifica(self,file_path, tipo):
@@ -31,7 +31,6 @@ class leer_datos_historial_pregunta(leer_datos):
     def lectura_historial_pregunta_cursos_actividad_específica(self, archivo_excel):
         # Leemos las hojas
         cursos_hoja = archivo_excel[self.NOMBRES_HOJAS[1]]
-        preguntas_hoja = archivo_excel[self.NOMBRES_HOJAS[2]]
 
         # Leemos cursos y actividades
         cursos= self.leer_columna(cursos_hoja,"CURSOS_ID")
