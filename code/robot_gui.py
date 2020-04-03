@@ -92,7 +92,7 @@ class robot_gui():
 
     def get_path_driver(self):
 
-        carpeta_drivers = os.path.dirname(os.path.abspath(__file__)) + "/chromedriver/"
+        carpeta_drivers = os.path.dirname(os.path.abspath(__file__)) + "/files/"
 
         return carpeta_drivers+'chromedriver'
 
@@ -154,6 +154,7 @@ class robot_gui():
             self.cerrar_driver()
             self.log += log
             self.label_logs_result.config(text = log)
+            self.reproducir_sonido()
             return
 
         self.run_robot_especifico(datos, tipo_tarea)
@@ -242,6 +243,7 @@ class robot_gui():
 
         
     def reproducir_sonido(self):
-        p = vlc.MediaPlayer("chromedriver/bell.wav")
+        path_files = os.path.dirname(os.path.abspath(__file__)) + "/files/bell.wav"
+        p = vlc.MediaPlayer(path_files)
         p.play()
 
