@@ -1,7 +1,7 @@
 from robot_gui import robot_gui, tk
 from robot_hist_pregunta import robot_hist_pregunta
 from leer_hist_pregunta import leer_datos_historial_pregunta
-DEBUG = True
+DEBUG = False
 class robot_hist_pregunta_gui(robot_gui):
     def __init__(self):
         super().__init__()

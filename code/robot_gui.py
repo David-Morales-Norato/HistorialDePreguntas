@@ -6,6 +6,8 @@ import tkinter.filedialog
 import os
 from sys import platform
 from sys import maxsize as msBits
+import vlc
+
 
 class robot_gui():
     def __init__(self):
@@ -50,7 +52,7 @@ class robot_gui():
         self.input_user_entry.grid(row = 1, column =1, pady = 20)
 
         #Campo de texto que guarda el input de la contraseña.
-        self.input_pass_entry = tk.Entry(self.frame_left) 
+        self.input_pass_entry = tk.Entry(self.frame_left, show = '*') 
         self.input_pass_entry.grid(row = 2, column = 1, pady = 20)
 
         #Label para describir que es importante
@@ -143,7 +145,7 @@ class robot_gui():
             return
 
         # Autenticación en tic-uis
-        self.robot.autenticacion_tic(self.input_user_entry.get(),self.input_pass_entry.get())
+        #self.robot.autenticacion_tic(self.input_user_entry.get(),self.input_pass_entry.get())
         log = self.robot.log
 
         # Si ha existido algún error en la autenticación
@@ -154,16 +156,18 @@ class robot_gui():
             self.label_logs_result.config(text = log)
             return
 
-        self.run_robot_especifico(datos, tipo_tarea)
+        #self.run_robot_especifico(datos, tipo_tarea)
 
         # Activa el botón para ver las estadísticas
         self.button_log.config(state="normal")
         self.button_guardar.config(state="normal")
         self.button_guardar_datos.config(state = 'normal')
         self.label_logs_result.config(text = "Terminado!")
-
+        self.reproducir_sonido()
         # Cierra el robot y el navegador
         self.cerrar_driver()
+
+
         pass
 
 
@@ -209,15 +213,15 @@ class robot_gui():
     def save_datos_recopilados(self):
         try:
             # Obtiene el path del archivo selexionado por el usuario
-            f = tkinter.filedialog.asksaveasfile(mode = 'w', defaultextension=".csv")
+            f = tkinter.filedialog.asksaveasfile(mode = 'w', defaultextension=".xlsx")
             if f is None: # asksaveasfile return `None` if dialog closed with "cancel".
                 return
 
             robot_datos = self.robot.datos_recopilados
             path_save_file = f.name
-            pd.DataFrame(robot_datos).to_csv(path_save_file, index=False, header=False)
+            pd.DataFrame(robot_datos).to_excel(path_save_file, index = False, header=False)
 
-                #Si no existe el archivo crea error
+            #Si no existe el archivo crea error
         except Exception as e:
             self.log += "|No se pudo guardar el archivo  |Exeption: "+ str(e)
             self.label_logs_result.config(text = "|No se pudo guardar el archivo  |Exeption: "+ str(e))
@@ -237,5 +241,7 @@ class robot_gui():
 
 
         
-
+    def reproducir_sonido(self):
+        p = vlc.MediaPlayer("chromedriver/bell.wav")
+        p.play()
 
