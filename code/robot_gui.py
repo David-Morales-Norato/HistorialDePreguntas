@@ -145,7 +145,7 @@ class robot_gui():
             return
 
         # Autenticación en tic-uis
-        #self.robot.autenticacion_tic(self.input_user_entry.get(),self.input_pass_entry.get())
+        self.robot.autenticacion_tic(self.input_user_entry.get(),self.input_pass_entry.get())
         log = self.robot.log
 
         # Si ha existido algún error en la autenticación
@@ -156,7 +156,7 @@ class robot_gui():
             self.label_logs_result.config(text = log)
             return
 
-        #self.run_robot_especifico(datos, tipo_tarea)
+        self.run_robot_especifico(datos, tipo_tarea)
 
         # Activa el botón para ver las estadísticas
         self.button_log.config(state="normal")
